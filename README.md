@@ -1,5 +1,3 @@
-# Health-Insurance-Cost-Linear-Regress
-
 # Insurance Cost Prediction - Linear Regression Model
 
 ## Project Overview
